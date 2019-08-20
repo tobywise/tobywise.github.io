@@ -10,7 +10,7 @@ permalink: /publications/
 
 ## 2019
 
-**Wise, T.**, Michely, J., Dayan, P., Dolan, R.J. A computational account of threat-related attentional bias. (2019) _PLOS Computational Biology_
+**Wise, T.**, Michely, J., Dayan, P., Dolan, R.J. (2019). A computational account of threat-related attentional bias. _PLOS Computational Biology_
 
 ## 2018
 
