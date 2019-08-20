@@ -74,6 +74,8 @@ I have a collection called tasks, with one document for each task I'm running. W
 
 This subject document contains fields with their subject ID, date they completed the task, and any other relevant variables for the subject. The subject's document also contains collections, for example a separate collection for each trial. The fields within these sub-collections will then contain their responses for that trial.
 
+![](../../img/firebase_rules.png)
+
 ### Security rules
 
 If you click on the **rules** tab on the database section of the firebase website, you'll see options for restricting access to the database. This is important for two reasons:
@@ -82,8 +84,6 @@ If you click on the **rules** tab on the database section of the firebase websit
 2. Data integrity - we need to ensure that we don't overwrite or delete data when multiple subjects complete the task. Each subject should only modify their own data.
 
 To achieve this, we set up a system where each subject completing the task is assigned an anonymous ID which identifies them within the database. Access to the database is then restricted based on this ID - data is only written to the database if the ID given in the write request matches the record that is trying to be modified.
-
-![](../../img/firebase_rules.png)
 
 This is what we use the **rules** section for. Below is what I then use in this section.
 
