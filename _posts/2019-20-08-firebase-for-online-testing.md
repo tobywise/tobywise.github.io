@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Running online experiments using Google Firebase"
-date:   2019-20-08 15:07
+date:   2019-08-20 15:07
 categories: [blog, online, coding]
 comments: false
 ---
