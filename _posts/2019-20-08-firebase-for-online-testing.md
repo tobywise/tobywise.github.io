@@ -54,7 +54,7 @@ Next, click on **create database**. You'll be asked to choose your security rule
 
 Then, choose your data storage location. This will depend on your circumstances, but if you're dealing with GDPR in any way it's best to choose Europe.
 
-After a minute or so, you'll have a database set up. 
+After a minute or so, you'll have a database set up.
 
 > **_Note:_**  Firebase provides two types of databases, Cloud Firestore and Realtime database. Make sure you're using Cloud Firestore.
 
@@ -68,13 +68,13 @@ A **document** can contain two things: **fields** and more **collections**.
 
 **Fields** are where your data itself is stored.
 
+![](../../img/firebase_rules.png)
+
 The way I've typically structured my data is as follows:
 
 I have a collection called tasks, with one document for each task I'm running. Within each document I have a fields representing information about the task, and then a collection called "subjects" that contains a separate document for each subject.
 
 This subject document contains fields with their subject ID, date they completed the task, and any other relevant variables for the subject. The subject's document also contains collections, for example a separate collection for each trial. The fields within these sub-collections will then contain their responses for that trial.
-
-![](../../img/firebase_rules.png)
 
 ### Security rules
 
@@ -170,6 +170,8 @@ Once you've done this, you'll be given a code snippet to copy and paste into you
 
 <!-- TODO: Add SDKs for Firebase products that you want to use
      https://firebase.google.com/docs/web/setup#config-web-app -->
+<script src="https://www.gstatic.com/firebasejs/6.4.0/firebase-firestore.js"></script>
+<script src="https://www.gstatic.com/firebasejs/6.4.0/firebase-auth.js"></script>
 
 <script>
   // Your web app's Firebase configuration
