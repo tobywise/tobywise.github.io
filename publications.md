@@ -6,9 +6,9 @@ permalink: /publications/
 
 ## Under review
 
-**Wise, T**\*, Patrick, F*, Nicholas Meyer, Ndaba Mazibuko, Alice E Oates, Anne H M van der Bijl, Philippe Danjou, Susan M O’Connor, Elizabeth Doolin, Caroline Wooldridge, Deborah Rathjan, Christine Macare, Steven CR Williams, Adam Perkins & Allan H Young. Cholinergic Modulation of Disorder-Relevant Neural Circuits in Generalised Anxiety Disorder. _Under review_
+**Wise, T.**\*, Patrick, F.*, Meyer M., Mazibuko, M., Oates A.E., van der Bijl, A.H.M, Danjou, P., O’Connor S.M., Doolin E., Wooldridge C., Rathjan, D., Macare, M., Williams, S.C.R., Perkins, A.M. & Young, A.H. Cholinergic Modulation of Disorder-Relevant Neural Circuits in Generalised Anxiety Disorder. _Under review_
 
-## 2019
+## In press
 
 **Wise, T.**, Michely, J., Dayan, P., Dolan, R.J. (2019). A computational account of threat-related attentional bias. _PLOS Computational Biology_
 
