@@ -78,7 +78,7 @@ As with any piece of writing, getting feedback is invaluable. Your sponsors shou
 
 It’s also worth pointing out here that the proposal needs to represent your own ideas. Getting feedback from your sponsor is vital, but this shouldn’t be along the lines of “I don’t like your ideas, you should do X, Y, & Z instead”. Not only is this a pretty bad omen for your working relationship, it will also become apparent at interview that the proposal wasn’t your idea.
 
-![](../../img/img-20161201-wa0000b.png)
+![](../../img/IMG-20161201-WA000b.png)
 *Getting feedback is crucial. However sometimes it turns out your friends are all too happy to be brutally honest*
 
 ## Step 7. Complete the application
@@ -94,7 +94,7 @@ The application form will also ask for publications and awards. It’s fine to i
 
 Eventually it’ll be time to undertake the terrifying task of submitting the application. Press the submit button and celebrate your hard work with a drink and sudden and terrifying realisation that you’ve not done any actual work for the past month.
 
-![](../../img/img-20161208-wa0002b.png)
+![](../../img/IMG-20161208-WA0002b.png)
 *Most anxiety-provoking button click of my life*
 
 ## Step 9. Submit the application again
