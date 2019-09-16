@@ -78,7 +78,7 @@ As with any piece of writing, getting feedback is invaluable. Your sponsors shou
 
 It’s also worth pointing out here that the proposal needs to represent your own ideas. Getting feedback from your sponsor is vital, but this shouldn’t be along the lines of “I don’t like your ideas, you should do X, Y, & Z instead”. Not only is this a pretty bad omen for your working relationship, it will also become apparent at interview that the proposal wasn’t your idea.
 
-![](../../img/IMG-20161201-WA000b.png)
+![](../../img/IMG-20161201-WA0000b.png)
 *Getting feedback is crucial. However sometimes it turns out your friends are all too happy to be brutally honest*
 
 ## Step 7. Complete the application
