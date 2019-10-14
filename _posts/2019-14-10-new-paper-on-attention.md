@@ -38,7 +38,7 @@ Subjects paid most attention to stimuli with high aversive value (i.e. those mos
 
 I’ve been interested in attentional bias towards threat for years, so I’m glad to have had an opportunity to try to understand it a little more. I now mostly work on learning in anxiety, and to me it made sense to try to link aversive learning processes to one of the most studied features of pathological anxiety. This project was something I naïvely thought would be a fairly simple – just take an aversive learning task and add on some measure of visual attention, couldn’t be too difficult right?
 
-![](../../img/first_design.png)
+![](../../img/first_design.PNG)
 *My very first design idea, which was kind of terrible and would have likely ended in complete failure*
 
 My initial plan was to use a task where subjects learned about two stimuli simultaneously and add in a few dot probe trials to get a reaction time based measure of attentional bias (subjects should react faster to dots shown in the position of the most valuable stimulus). However after a bit of reading I came to realise that the dot probe has a few issues, particularly regarding reliability, and eye tracking seemed like a better idea.
