@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "New paper on attention during aversive learning"
-date:   2019-14-10 08:00
+date:   2019-10-14 08:00
 categories: [blog, papers]
 comments: false
 ---
