@@ -20,7 +20,8 @@ I’m primarily interested in how dysfunction in aversive learning processes mig
 
 To answer this question we used a relatively simple aversive learning task. Subjects had to estimate the probability of receiving a shock from each of two shape stimuli shown on screen concurrently, and we used computational models to look at how people learned these probabilities, and how they estimated uncertainty around their predictions. We used eye tracking as an index of visual attention while subjects completed this task.
 
-![](../../img/Figure1.png)
+<img src="../../img/Figure1.png" width="400"/>
+
 *The task*
 
 ## What we found
@@ -72,10 +73,10 @@ One of my main aims is to tie dyfunction in aversive learning processes to sympt
 
 ----
 
-Paper: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007341
+Paper: (https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007341)
 
-Preregistration: https://osf.io/8rwcu/
+Preregistration: (https://osf.io/8rwcu/)
 
-Data: https://osf.io/b4e72/
+Data: (https://osf.io/b4e72/)
 
-Code: https://github.com/tobywise/attention-threat-learning
+Code: (https://github.com/tobywise/attention-threat-learning)
