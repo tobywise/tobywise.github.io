@@ -73,10 +73,10 @@ One of my main aims is to tie dyfunction in aversive learning processes to sympt
 
 ----
 
-Paper: (https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007341)
+Paper: [https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007341](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007341)
 
-Preregistration: (https://osf.io/8rwcu/)
+Preregistration: [https://osf.io/8rwcu/](https://osf.io/8rwcu/)
 
-Data: (https://osf.io/b4e72/)
+Data: [https://osf.io/b4e72/](https://osf.io/b4e72/)
 
-Code: (https://github.com/tobywise/attention-threat-learning)
+Code: [https://github.com/tobywise/attention-threat-learning](https://github.com/tobywise/attention-threat-learning)
