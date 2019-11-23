@@ -6,7 +6,7 @@ permalink: /publications/
 
 ## Preprints
 
-**Wise, T.** & Dolan, R.J. (2019). Associations between aversive learning processes and transdiagnostic psychiatric symptoms revealed by large-scale phenotyping. _bioRxiv_. https://www.biorxiv.org/content/10.1101/843045v1
+**Wise, T.** & Dolan, R.J. (2019). Associations between aversive learning processes and transdiagnostic psychiatric symptoms revealed by large-scale phenotyping. _bioRxiv_. [https://www.biorxiv.org/content/10.1101/843045v1](https://www.biorxiv.org/content/10.1101/843045v1)
 
 
 ## Under review
