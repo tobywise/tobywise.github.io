@@ -4,11 +4,16 @@ title:  Publications
 permalink: /publications/
 ---
 
+## Preprints
+
+**Wise, T.** & Dolan, R.J. (2019). Associations between aversive learning processes and transdiagnostic psychiatric symptoms revealed by large-scale phenotyping. _bioRxiv_. https://www.biorxiv.org/content/10.1101/843045v1
+
+
 ## Under review
 
 **Wise, T.**\*, Patrick, F.*, Meyer M., Mazibuko, M., Oates A.E., van der Bijl, A.H.M, Danjou, P., O’Connor S.M., Doolin E., Wooldridge C., Rathjan, D., Macare, M., Williams, S.C.R., Perkins, A.M. & Young, A.H. Cholinergic Modulation of Disorder-Relevant Neural Circuits in Generalised Anxiety Disorder. _Under review_
 
-## In press
+## 2019
 
 **Wise, T.**, Michely, J., Dayan, P., Dolan, R.J. (2019). A computational account of threat-related attentional bias. _PLOS Computational Biology_
 
