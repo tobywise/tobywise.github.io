@@ -1,6 +1,6 @@
 ---
 title:  "How to make Python code faster"
-date:   2021-03-28 08:00:00
+date:   2022-03-28 08:00:00
 tags: [blog, coding]
 image: img/parallel_serial.png
 ---
