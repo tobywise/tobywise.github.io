@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "www.tobywise.com"
 languageCode = "en-us"
 title = "TOBY WISE"
 theme = "mytheme"
