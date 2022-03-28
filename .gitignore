@@ -1,7 +1,1 @@
-_site
-.sass-cache
-.directory
-Thumbs.db
-_drafts
-.ruby-version
-Gemfile.lock
+static/img/beta_distributions.gif

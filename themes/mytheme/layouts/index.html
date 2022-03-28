@@ -1,0 +1,71 @@
+{{ define "main" }}
+
+<div class="jumbotron text-dark">
+  <div class="jumbotron-inner">
+    <h2 class="display-6 text-light">Computational affective neuroscience</h2>
+    <p class="lead text-light">My goal is to understand the neurocomputational mechanisms of mood and anxiety across health and disease</p>
+    <!-- <hr class="my-4">
+    <p>It uses utility classes for typography and spacing to space content out within the larger container.</p> -->
+    <p class="lead">
+      <a class="btn btn-outline-light btn-lg" href="/research" role="button">About my research</a>
+    </p>
+  </div>
+</div>
+<hr class="my-4">
+<div class="blog-header">
+  
+  <div class="container h-100">
+    <h3 class="display-6 text-dark">Posts</h3>
+    <div class="row  align-content-stretch">
+      {{ range first 3 (where .Site.RegularPages "Type" "posts")}}
+      <div class="col-md-4 align-content-stretch">
+        <div class="col-md-12 small-post-border bg-light h-100">
+          
+          <div class="row thumbnail-bg justify-content-center h-75">
+            <div class="d-flex align-content-center justify-content-center">
+              <div class="row align-items-center w-100">
+                <a href="{{ .Permalink }}">
+                  <img class="img-thumbnail border rounded-5" src="{{ .Params.Image | absURL }}">
+                </a>
+              
+              </div>
+            </div>
+
+          </div>
+
+          <div class="row bg-dark justify-content-center h-50" id="blogRow">
+            <div class='col mt-1 mb-2'>
+              <div class="row justify-content-center align-content-center text-light  h-25">
+
+                {{ if not .Params.HideDate }}
+                <span>{{ .PublishDate.Format "02 Jan 2006" }}</span>
+                {{ end }}
+
+              </div>
+              <div class="row justify-content-center align-content-center h-50">
+                <a href="{{ .Permalink }}" class="h5 d-block mb-3 text-light text-center blogTitle">{{ .Title | markdownify }}</a>
+              </div>
+              <div class="row justify-content-center align-content-center h-25">
+                <a href="{{ .Permalink }}" class="btn btn-outline-primary text-light">read more</a>   
+              </div>
+          
+                
+                           
+            </div>
+
+          </div>
+          
+
+
+        </div>
+        
+      </div>
+
+
+      {{ end }}
+    </div>
+  </div>
+</div>
+
+
+{{ end }}

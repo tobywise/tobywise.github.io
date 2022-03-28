@@ -1,0 +1,54 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "TOBY WISE"
+theme = "mytheme"
+name = "Toby Wise"
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+[menu]
+  [[menu.main]]
+    name = "GitHub"
+    pre = "<i data-feather=\"github\"></i>"
+    identifier = "GitHub"
+    url = "http://github.com/tobywise"
+  [[menu.main]]
+    name = "Twitter"
+    pre = "<i data-feather=\"twitter\"></i>"
+    identifier = "Twitter"
+    url = "https://twitter.com/toby_wise"
+  [[menu.main]]
+    name = "Scholar"
+    pre = "<i class=\"ai ai-google-scholar ai-2x\" style=\"font-size:1.7em\"></i>"
+    identifier = "Scholar"
+    url = "https://scholar.google.co.uk/citations?user=_PD-jwIAAAAJ&hl=en"
+  [[menu.main]]
+    name = "OSF"
+    pre = "<i class=\"ai ai-osf ai-2x\" style=\"font-size:1.7em\"></i>"
+    identifier = "OSF"
+    url = "https://osf.io/dnwpx/"
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 2
+  [[menu.main]]
+    name = "Publications"
+    url = "/publications/"
+    weight = 3
+  [[menu.main]]
+    name = "CV"
+    url = "/cv/"
+    weight = 3
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+  [[menu.main]]
+    name = "Research"
+    url = "/research/"
+    weight = 3
