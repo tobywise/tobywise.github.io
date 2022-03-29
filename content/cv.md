@@ -1,7 +1,7 @@
 ---
 title: "CV"
 date: 2020-09-12T15:45:40-07:00
-draft: true
+draft: false
 layout: research
 ---
 

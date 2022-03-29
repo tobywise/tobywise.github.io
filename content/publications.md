@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 date: 2020-09-10T22:34:28-07:00
-draft: true
+draft: false
 type: page
 layout: publications
 ---

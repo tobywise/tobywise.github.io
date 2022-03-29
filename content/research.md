@@ -1,7 +1,7 @@
 ---
 title: "Research"
 date: 2020-09-10T22:34:30-07:00
-draft: true
+draft: false
 type: page
 layout: research
 ---

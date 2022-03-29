@@ -1,7 +1,7 @@
 ---
 title: "About me"
 date: 2020-09-12T15:40:14-07:00
-draft: true
+draft: false
 layout: research
 ---
 
