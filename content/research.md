@@ -29,7 +29,7 @@ Results from these studies have shown that symptoms of psychiatric disorders suc
 #### Publications
 
 * **Wise, T.** & Dolan, R.J. (2020). Associations between aversive learning processes and transdiagnostic psychiatric symptoms revealed by large-scale phenotyping. _Nature Communications_
-* **Wise, T.**, Michely, J., Dayan, P., Dolan, R.J. (2019). A computational account of threat-related attentional bias. PLOS Computational Biology, 15 (10)
+* **Wise, T.**, Michely, J., Dayan, P., Dolan, R.J. (2019). A computational account of threat-related attentional bias. _PLOS Computational Biology_
 
 </div>
 
@@ -72,8 +72,8 @@ However, while these studies are informative, they do not tell us precisely how 
 #### Publications
 
 * **Wise, T.**\*, Patrick, F.\*, Meyer M., Mazibuko, M., Oates A.E., van der Bijl, A.H.M, Danjou, P., O’Connor S.M., Doolin E., Wooldridge C., Rathjan, D., Macare, M., Williams, S.C.R., Perkins, A.M. & Young, A.H. (2020). Cholinergic Modulation of Disorder-Relevant Neural Circuits in Generalised Anxiety Disorder. _Biological Psychiatry_
-* **Wise, T.**\*, Marwood, L\*, Perkins, A.M., Herane, A., Joules, R., Lythgoe, D., Luh, W., Williams, S.C.R., Young, A.H., Cleare, A.J., Arnone, D. (2017) Instability of Default Mode Dynamic Functional Connectivity in Major Depression: A Two-Sample Confirmation Study. _Translational Psychiatry_. 7(4), e1105
-* **Wise, T.**, Radua, J., Via, E., Cardoner, N., Abe, O., Adams, T. M., … & Arnone, D. (2017). Common and distinct patterns of grey-matter volume alteration in major depression and bipolar disorder: evidence from voxel-based meta-analysis. _Molecular psychiatry_, 22(10), 1455.
+* **Wise, T.**\*, Marwood, L\*, Perkins, A.M., Herane, A., Joules, R., Lythgoe, D., Luh, W., Williams, S.C.R., Young, A.H., Cleare, A.J., Arnone, D. (2017) Instability of Default Mode Dynamic Functional Connectivity in Major Depression: A Two-Sample Confirmation Study. _Translational Psychiatry_
+* **Wise, T.**, Radua, J., Via, E., Cardoner, N., Abe, O., Adams, T. M., … & Arnone, D. (2017). Common and distinct patterns of grey-matter volume alteration in major depression and bipolar disorder: evidence from voxel-based meta-analysis. _Molecular Psychiatry_
 </div>
 <br>
 
@@ -86,7 +86,7 @@ The majority of my work investigates how we build perceptions of our environment
 
 During the recent COVID-19 pandemic, I have conducted research into how people perceive threat from this global pandemic. This allows me to explore whether the way in which people learn about threat in the real world is similar to what we see in the lab.
 
-In ongoing work, I am also seeking to provide more ecologically valid assessments of threat perception through the creation of experimental tasks that present more engaging, realistic scenarios to subjects. Often, we use tasks that present subjects with abstract stimuli to learn about. I am designing tasks with inspiration from video games, putting subjects into virtual environments in which they must learn to survive.
+I am also seeking to provide more ecologically valid assessments of threat perception through the creation of experimental tasks that present more engaging, realistic scenarios to subjects. Often, we use tasks that present subjects with abstract stimuli to learn about. I am designing tasks with inspiration from video games, putting subjects into virtual environments in which they must learn to survive.
 
 <br>
 <div class='blog-box'>
@@ -95,5 +95,5 @@ In ongoing work, I am also seeking to provide more ecologically valid assessment
 
 * **Wise, T.**, Zbozinek, T.D., Michelini, G., Hagan, C.C., Mobbs, D. (2020). Changes in risk perception and protective behavior during the first week of the COVID-19 pandemic in the United States. _Royal Society Open Science_.
 * **Wise, T.**\*, Zbozinek, T.D.\*, Charpentier, C.J., Michelini, G., Hagan, C.C., Mobbs, D. (in press). Computationally-defined markers of uncertainty aversion predict trajectories of perceived threat and anxiety during a global pandemic. _Emotion_.
-
+* Mobbs, D.*, **Wise, T.**\*, Suthana, N., Guzmán, N., Kriegeskorte, N., Leibo, J.Z.  (2021). Promises and Challenges of Human Computational Ethology. _Neuron_.
 </div>
