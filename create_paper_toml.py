@@ -1,9 +1,7 @@
 ## Load in a csv file and convert it to a toml file
 
 import pandas as pd
-import toml
 import argparse
-import pytablewriter
 import os
 
 if __name__ == "__main__":
@@ -31,7 +29,7 @@ if __name__ == "__main__":
         toml_string += '[[row]]\n'
         row['authors'] = row['authors'].replace('Wise, T.', '<u>Wise, T.</u>')
         if row['article'] != '-':
-            row['article'] = '[Link](' + row['code'] + ')'
+            row['article'] = '[Link](' + row['article'] + ')'
         if row['code'] != '-':
             row['code'] = '[Link](' + row['code'] + ')'
         if row['data'] != '-':
